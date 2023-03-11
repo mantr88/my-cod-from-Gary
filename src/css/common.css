@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(210, 255, 127);
+}
+
+form {
+    display:flex;
+
+}
+
+.submit-btn {
+    margin-left: 10px;
+    padding: 15px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+input {
+    padding: 3px;
+    width: 200px;
+}
+
+.active {
+    background-color: aqua;
+}
